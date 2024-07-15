@@ -1,6 +1,8 @@
 # DL-Skull_Strapping
 ![image](https://github.com/user-attachments/assets/731a8d17-ef79-47a6-a97f-71169aba7fbe)
 ![image](https://github.com/user-attachments/assets/f0b11507-e11a-4287-bd64-7d69f9c20706)
+![image](https://github.com/user-attachments/assets/c214557c-4864-4a44-86cf-af033a63b671)
+
 ![image](https://github.com/user-attachments/assets/a298ffab-e3af-4089-8aa5-5a7f0a6689a9)
 ![image](https://github.com/user-attachments/assets/01431365-be60-4c62-9a90-e56aa1487aad)
 ![image](https://github.com/user-attachments/assets/dabb9cb1-8885-4f97-a4cc-2427485ef4f8)
