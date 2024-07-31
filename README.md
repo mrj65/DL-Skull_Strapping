@@ -1,7 +1,7 @@
 # DL-Skull_Strapping
 
 
-DL-Skull_Strapping is a deep learning-based project focused on the segmentation and strapping of skulls from MRI scans. The project leverages Pytorhc defined U-net to accurately distinguish between brain tissues and the skull, providing a reliable mask overlay for medical analysis.
+This project leverages Pytorch defined U-net in order to perform semantic segmentation on MRI scans.  between brain tissues and the skull , providing a reliable mask overlay for medical analysis.
 
 Features
 MRI Scan Visualization: Displays the middle slice of each axis (axial, coronal, sagittal) of MRI scans along with the corresponding brain masks.
@@ -15,18 +15,18 @@ The repository includes a Jupyter notebook skullclean.ipynb which contains:
 Data loading and preprocessing steps.
 Model training and evaluation processes.
 Visualization of results and performance metrics.
-Installation
+# Installation
 Clone the repository and install the required dependencies:
 
-bash
-Copy code
-git clone https://github.com/yourusername/DL-Skull_Strapping.git
-cd DL-Skull_Strapping
-pip install -r requirements.txt
-Usage
+```bash
+git clone https://github.com/yourusername/DL-Skull_Strapping.git;
+cd DL-Skull_Strapping;
+pip install -r requirements.txt;
+```
+# Usage
 Load the Data: Ensure your MRI data is in the specified directory or update the paths in the notebook.
 Run the Notebook: Execute the cells in skullclean.ipynb to preprocess data, train the model, and visualize the results.
-Visualize Results: Use the interactive widgets and plots in the notebook to explore the segmentation results.
+ Use the interactive widgets and plots in the notebook to explore the segmentation results.
 
 
 
